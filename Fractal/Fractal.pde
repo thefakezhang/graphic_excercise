@@ -9,7 +9,7 @@ float proportion = 2;
 int sliderHeight = 15;
 
 void setup(){
-  size(800, 800);
+  size(800, 800, P2D);
   background(0);
   stroke(255);
   
